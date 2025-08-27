@@ -13,7 +13,7 @@ The system ensures reliable data transmission, validates legal moves according t
 
 ## 🛠️ Technologies Used
 - Java (Socket Programming)
-- TCP/IP Protocol
+- WebSocket Protocol
 - Client-Server Model
 - HTML/CSS/JavaScript
  
@@ -23,4 +23,5 @@ The system ensures reliable data transmission, validates legal moves according t
 - Add match history and replay feature  
 - Develop web or mobile interface  
 - Optimize network performance and latency  
+
 
